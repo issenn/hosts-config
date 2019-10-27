@@ -1,0 +1,83 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+
+# 47.75.171.208 admin.fo-lio.com
+
+
+# Adobe Blocker
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+# Adobe Blocker
+
+# Remote-Desktop Manager
+127.0.0.1 cdn.devolutions.net
+127.0.0.1 crm.devolutions.net
+# Remote-Desktop Manager
+
+127.0.0.1 liveupdate.mac.sandai.net
+
+# Crystal ACG
+# 106.186.27.62 www.dmm.com
+# 106.186.27.62 www.dmm.co.jp
+# 106.186.27.62 sp.dmm.com
+# 106.186.27.62 sp.dmm.co.jp
+# 106.186.27.62 actress.dmm.co.jp
+# 106.186.27.62 book.dmm.com
+# 106.186.27.62 book.dmm.co.jp
+# 106.186.27.62 www.akabeesoft2.com
+# 106.186.27.62 www.akabeesoft3.com
+# 106.186.27.62 www.akatsukiworks.com
+# 106.186.27.62 www.alicesoft.com
+# # 106.186.27.62 download.alicesoft.com
+# 106.186.27.62 www.cosmiccute.com
+# 106.186.27.62 www.hibiki-site.com
+# 106.186.27.62 www.minori.ph
+# 106.186.27.62 erogamescape.ddo.jp
+# 106.186.27.62 tenco.cc
+# 106.186.27.62 wheel-soft.com
+# 106.186.27.62 accounts.dmm.com
+# 106.186.27.62 games.dmm.com
+# 106.186.27.62 games.dmm.co.jp
+# 106.186.27.62 pc-play.games.dmm.com
+# 106.186.27.62 pc-play.games.dmm.co.jp
+# Crystal ACG
+
+# Section Start: sublime
+127.0.0.1       www.sublimetext.com
+127.0.0.1       license.sublimehq.com
+# Section End: sublime
+
+# Section Start: free-ss.site
+104.18.18.18    free-ss.site
+# Section End: free-ss.site
+
+# Section Start: youneed.win
+104.31.74.55    youneed.win
+104.31.74.55    www.youneed.win
+# Section End: youneed.win
